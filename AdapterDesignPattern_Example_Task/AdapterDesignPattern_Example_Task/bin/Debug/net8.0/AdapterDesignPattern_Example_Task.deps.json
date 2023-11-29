@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AdapterDesignPattern_Example_Task/1.0.0": {
+        "runtime": {
+          "AdapterDesignPattern_Example_Task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdapterDesignPattern_Example_Task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

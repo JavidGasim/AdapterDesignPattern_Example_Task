@@ -1,0 +1,14 @@
+C:\Users\gasim\source\repos\AdapterDesignPattern_Example_Task\AdapterDesignPattern_Example_Task\bin\Debug\net8.0\AdapterDesignPattern_Example_Task.exe
+C:\Users\gasim\source\repos\AdapterDesignPattern_Example_Task\AdapterDesignPattern_Example_Task\bin\Debug\net8.0\AdapterDesignPattern_Example_Task.deps.json
+C:\Users\gasim\source\repos\AdapterDesignPattern_Example_Task\AdapterDesignPattern_Example_Task\bin\Debug\net8.0\AdapterDesignPattern_Example_Task.runtimeconfig.json
+C:\Users\gasim\source\repos\AdapterDesignPattern_Example_Task\AdapterDesignPattern_Example_Task\bin\Debug\net8.0\AdapterDesignPattern_Example_Task.dll
+C:\Users\gasim\source\repos\AdapterDesignPattern_Example_Task\AdapterDesignPattern_Example_Task\bin\Debug\net8.0\AdapterDesignPattern_Example_Task.pdb
+C:\Users\gasim\source\repos\AdapterDesignPattern_Example_Task\AdapterDesignPattern_Example_Task\obj\Debug\net8.0\AdapterDesignPattern_Example_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gasim\source\repos\AdapterDesignPattern_Example_Task\AdapterDesignPattern_Example_Task\obj\Debug\net8.0\AdapterDesignPattern_Example_Task.AssemblyInfoInputs.cache
+C:\Users\gasim\source\repos\AdapterDesignPattern_Example_Task\AdapterDesignPattern_Example_Task\obj\Debug\net8.0\AdapterDesignPattern_Example_Task.AssemblyInfo.cs
+C:\Users\gasim\source\repos\AdapterDesignPattern_Example_Task\AdapterDesignPattern_Example_Task\obj\Debug\net8.0\AdapterDesignPattern_Example_Task.csproj.CoreCompileInputs.cache
+C:\Users\gasim\source\repos\AdapterDesignPattern_Example_Task\AdapterDesignPattern_Example_Task\obj\Debug\net8.0\AdapterDesignPattern_Example_Task.dll
+C:\Users\gasim\source\repos\AdapterDesignPattern_Example_Task\AdapterDesignPattern_Example_Task\obj\Debug\net8.0\refint\AdapterDesignPattern_Example_Task.dll
+C:\Users\gasim\source\repos\AdapterDesignPattern_Example_Task\AdapterDesignPattern_Example_Task\obj\Debug\net8.0\AdapterDesignPattern_Example_Task.pdb
+C:\Users\gasim\source\repos\AdapterDesignPattern_Example_Task\AdapterDesignPattern_Example_Task\obj\Debug\net8.0\AdapterDesignPattern_Example_Task.genruntimeconfig.cache
+C:\Users\gasim\source\repos\AdapterDesignPattern_Example_Task\AdapterDesignPattern_Example_Task\obj\Debug\net8.0\ref\AdapterDesignPattern_Example_Task.dll
